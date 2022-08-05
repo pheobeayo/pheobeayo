@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end development and Product design.
 - 🌱 I’m currently learning React And UI/UX
 - 💞️ I’m looking to collaborate on Web design and Product design
-- 📫 You can reach me through my email pheobeayo@gmail.com or twitter https://twitter.com/pheobeayolove1
+- 📫 You can reach me through my email pheobeayo@gmail.com, twitter https://twitter.com/pheobeayolove1, LinkedIn:https://www.linkedin.com/in/ifeoluwa-sanni-569979151, and Behance:https://www.behance.net/Ifeoluwa_Sanni
 - 
 
 <!---
