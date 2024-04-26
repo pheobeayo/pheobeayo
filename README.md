@@ -21,6 +21,6 @@ https://www.linkedin.com/in/ifeoluwa-sanni/
 https://twitter.com/pheobeayolove1
 
 Languages and Tools: 
-https://www.typescriptlang.org/ https://react.dev/ https://nextjs.org/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Typescript, Javascript, React, Next js, Tailwind CSS, Chakra UI, Styled Components, GraphQL, Node js, Solidity
 
 
