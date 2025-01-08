@@ -12,7 +12,7 @@ Currently, I’m exploring Ethereum and Starknet, sharpening my skills in Solidi
 
 - 😄 Pronouns: She/Her
 
-- 👯 I’m looking to contribute to open source and team up on cool Web2 and Web3 projects.
+- 👯 I’m looking to contribute to open-source projects and team up on cool Web2 and Web3 projects.
 
 - ⚡ Fun fact: When I'm not coding, I love reading up and teaching!
 
