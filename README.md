@@ -72,12 +72,12 @@ I am an active open-source contributor and developer advocate across the Ethereu
 ---
 
 ## 📈 GitHub Stats
-
+ 
 <div align="center">
-
-(https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues)](https://github.com/pheobeayo/github-readme-stats)
+ 
+[![Pheobeayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues)](https://github.com/pheobeayo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&hide=c&langs_count=8&theme=dracula)](https://github.com/pheobeayo/github-readme-stats)
-
+ 
 </div>
 
 ---
