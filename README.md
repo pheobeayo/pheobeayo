@@ -58,68 +58,17 @@ Passionate Web3 full-stack developer and open-source contributor with **3+ years
 
 ---
 
-## 🚀 Notable Projects
-
-### 🥇 [Adwumapa – Talent Hiring DApp](https://github.com/pheobeayo) | `Next.js · TypeScript · Solidity · GraphQL`
-> **1st Place — EthAccra Hackathon**
-
-Built a full-stack decentralised talent marketplace from contract architecture through deployed frontend. Developed escrow and payment-release smart contracts with role-based access control, integrated GraphQL for on-chain data indexing, and delivered a polished Next.js/TypeScript UI against a live hackathon deadline.
-
----
-
-### 🥈 [ThriftChain – DeFi Protocol](https://github.com/pheobeayo) | `Solidity · Vite · JavaScript · IPFS`
-> **2nd Place — Fuse Hackathon**
-
-Engineered a full DeFi staking and yield protocol — from tokenomics research through Solidity implementation and frontend integration. Handled IPFS storage, wallet connection via Web3Modal, and end-to-end contract deployment to mainnet.
-
----
-
-### 🥉 [StudentChain – Student Funding DApp](https://github.com/pheobeayo) | `Solidity · Vite · IPFS · Web3Modal`
-> **3rd Place — Morph Hackathon & Lisk Hackathon**
-
-Designed and shipped a multi-party funding protocol for students, including on-chain approval logic and a fully integrated Vite frontend with IPFS-stored metadata. Placed at two independent international hackathons.
-
----
-
-### 🥉 [Memoverse – Storytelling DApp](https://github.com/pheobeayo) | `React.js · TypeScript · Solidity · GraphQL`
-> **3rd Place — Lisk Hackathon**
-
-Developed an on-chain content ownership and storytelling platform using NFT-based provenance. Integrated GraphQL for efficient on-chain data queries and built the full React/TypeScript frontend interface.
-
----
-
-### ♻️ [GreenEarns – Recycling Incentive DApp](https://github.com/pheobeayo) | `Solidity · Vite · IPFS · Web3Modal · Tailwind CSS`
-
-Architected and deployed a token-incentive recycling platform end-to-end — smart contracts through frontend — with IPFS for decentralised storage and on-chain event logging for full auditability.
-
----
-
 ## 🌱 Open Source & Community
 
 I am an active open-source contributor and developer advocate across the Ethereum and StarkNet ecosystems.
 
 - 🔓 **OnlyDust & Drips** — Contributed code, documentation, and technical guides to **10+ live repositories**; earned consistent contributor recognition for reliable, high-quality output
 - 📝 **Technical Writing** — Authored contributor onboarding guides, contract architecture docs, and protocol explainers that reduce friction for developers entering new codebases
-- 🎤 **Dev3pack DevRel Lead** — Run workshops and speak at blockchain events, distilling L1/L2 developments and DeFi mechanics into accessible content for students and women-in-blockchain communities
+- 🎤 **Dev3pack OpenSource DevRel Lead** — Run workshops and speak at blockchain events, distilling L1/L2 developments and DeFi mechanics into accessible content for students and women-in-blockchain communities in Open-Source Contribution.
 - 🤝 **HerDAO Contributor** — Produce educational content on blockchain and frontend development for the community
 - 👩‍🏫 Organised mentorship programmes for **50+ students, teenagers, and career-pivoting women** entering Web3
 - 📰 **Devconnect Scholar 2023** — Represented the Ethereum Foundation's Next Billion initiative on the ground
-
----
-
-## 🎖️ Achievements & Recognition
-
-| Award | Detail |
-|-------|--------|
-| 🥇 1st Place | EthAccra Hackathon *(Adwumapa)* |
-| 🥈 2nd Place | Fuse Hackathon *(ThriftChain)* |
-| 🥉 3rd Place | Morph Hackathon *(StudentChain)* |
-| 🥉 3rd Place | Lisk Hackathon *(StudentChain & Memoverse)* |
-| 🥉 3rd Place | EthSafari Hackathon *(Naturedefenders)* |
-| 🏅 Most Creative Web3 Frontend Developer | Ayaversity Cohort 1 |
-| 🎓 DevConnect Scholar 2023 | Ethereum Foundation & Next Billion Team |
-| 🌟 Women in Ethereum Protocol Fellow | Aug–Oct 2025 |
-
+- 🌟 **Women in Ethereum Protocol Fellow** - Contribute to Ethereum Client Protocols as one of the Top Contributors
 ---
 
 ## 📈 GitHub Stats
@@ -137,17 +86,10 @@ I am an active open-source contributor and developer advocate across the Ethereu
 
 I'm open to **Web3 full-stack development**, **open-source collaboration**, **DevRel and developer advocacy**, and **technical writing** opportunities. Let's build and grow the ecosystem together.
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-cc338b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-sanni/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6aa6f8?style=for-the-badge&logo=netlify&logoColor=white)](https://ifeoluwaayosanni.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-cc338b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheobeayo@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-6aa6f8?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pheobeayolove1)
-
-</div>
 
 ---
 
 <div align="center">
-<sub>⚡ When I am not shipping DApps or contributing to open source, I'm teaching the next generation of Web3 builders.</sub>
+<sub>⚡ When I am not shipping DApps or contributing to open source, I am teaching the next generation of Web3 builders.</sub>
 </div>
