@@ -1,11 +1,11 @@
 <div align="center">
 
-# IFEOLUWA SANNI
-### Web3 Full-Stack Developer · Open-Source Contributor · DevRel & Community Builder
-### Cairo & Solidity Engineer · Technical Writer
+# Ifeoluwa Sanni
+### Web3 Full-Stack Developer · Open-Source Contributor · OpenSource-DevRel @ Dev3Pack & Community Builder
+### Protocol Engineer @ WIEP(Women in Ethereum Protocol) · Cairo & Solidity Engineer · Technical Writer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ifeoluwa_Sanni-cc338b?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-sanni/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ifeoluwaayosanni.netlify.app-6aa6f8?style=flat&logo=netlify&logoColor=white)](https://ifeoluwaayosanni.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ifeoluwaayosanni.vercel.app-6aa6f8?style=flat&logo=vercel&logoColor=white)](https://ifeoluwaayosanni.vercel.app)
 [![Twitter/X](https://img.shields.io/badge/@pheobeayolove1-cc338b?style=flat&logo=x&logoColor=white)](https://twitter.com/pheobeayolove1)
 [![Medium](https://img.shields.io/badge/Medium-@pheobeayo-6aa6f8?style=flat&logo=medium&logoColor=white)](https://medium.com/@pheobeayo)
 [![Email](https://img.shields.io/badge/Email-pheobeayo@gmail.com-cc338b?style=flat&logo=gmail&logoColor=white)](mailto:pheobeayo@gmail.com)
@@ -16,15 +16,9 @@
 
 ## 👩‍💻 About Me
 
-Passionate Web3 full-stack developer and open-source contributor with **3+ years** building production DApps across **Ethereum and StarkNet**. I turn ideas into shipped, on-chain products from smart contract architecture through a polished frontend. I'm equally at home writing clean Solidity, Cairo, Solidity, contributing to live open-source repositories, and creating the documentation that helps developers actually understand what they are building with.
+Passionate Web3 full-stack developer and open-source contributor with **3+ years** building production DApps across **Ethereum and StarkNet**. I turn ideas into shipped, on-chain products from smart contract architecture through a polished frontend. I'm equally at home writing clean Solidity, Cairo, contributing to live open-source repositories, and creating the documentation that helps developers actually understand what they are building with.
 
-- 🏆 **6 international hackathon placements**, including **1st Place at EthAccra, EthSafari, Women in Hackc**
-- 🌐 Contributed to **10+ open-source Web3 repositories** across Ethereum and StarkNet
-- 📦 Shipped **5+ production DApps** in DeFi, EdTech, and sustainability verticals
-- 🎓 **DevConnect Scholar 2023** — Ethereum Foundation & Next Billion Team
-- 🌍 **Women in Ethereum Protocol Fellow** (Aug–Oct 2025)
-- 👩‍🏫 Mentored and onboarded **50+ students, teenagers, and career-pivoting women** into Tech and Web3
-- 😄 Pronouns: **She/Her** | 📍 Nigeria
+
 
 ---
 
@@ -102,11 +96,11 @@ Architected and deployed a token-incentive recycling platform end-to-end — sma
 
 ## 🌱 Open Source & Community
 
-I'm an active open-source contributor and developer advocate across the Ethereum and StarkNet ecosystems.
+I am an active open-source contributor and developer advocate across the Ethereum and StarkNet ecosystems.
 
 - 🔓 **OnlyDust & Drips** — Contributed code, documentation, and technical guides to **10+ live repositories**; earned consistent contributor recognition for reliable, high-quality output
 - 📝 **Technical Writing** — Authored contributor onboarding guides, contract architecture docs, and protocol explainers that reduce friction for developers entering new codebases
-- 🎤 **Dev3pack DevRel Lead** — Run workshops and speak at blockchain events, distilling L1/L2 developments and DeFi mechanics into accessible content for student and women-in-blockchain communities
+- 🎤 **Dev3pack DevRel Lead** — Run workshops and speak at blockchain events, distilling L1/L2 developments and DeFi mechanics into accessible content for students and women-in-blockchain communities
 - 🤝 **HerDAO Contributor** — Produce educational content on blockchain and frontend development for the community
 - 👩‍🏫 Organised mentorship programmes for **50+ students, teenagers, and career-pivoting women** entering Web3
 - 📰 **Devconnect Scholar 2023** — Represented the Ethereum Foundation's Next Billion initiative on the ground
@@ -155,5 +149,5 @@ I'm open to **Web3 full-stack development**, **open-source collaboration**, **De
 ---
 
 <div align="center">
-<sub>⚡ When I'm not shipping DApps or contributing to open source, I'm teaching the next generation of Web3 builders.</sub>
+<sub>⚡ When I am not shipping DApps or contributing to open source, I'm teaching the next generation of Web3 builders.</sub>
 </div>
