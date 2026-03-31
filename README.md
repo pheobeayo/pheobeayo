@@ -96,8 +96,7 @@ I believe a developer who can't explain their work hasn't fully understood it ye
 
 Beyond that:
 
-- 👩‍🏫 Onboarded **50+ students, teenagers, and career-pivoting women** into Web3 through structured mentorship
-- 🎓 **DevConnect Scholar 2023** — Ethereum Foundation & Next Billion Team
+- 👩‍🏫 Onboarded **students, teenagers, and career-pivoting women** into Tech and Web3 through structured mentorship
 - 📝 I write docs that developers bookmark, not just read once
 - 🌱 When I'm not on-chain or in a terminal, I'm reading something that has nothing to do with tech — and somehow it always finds its way back
 
@@ -107,9 +106,9 @@ Beyond that:
 
 <div align="center">
 
-[![Ifeoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues&count_private=true&include_all_commits=true)](https://github.com/pheobeayo)
+[![Ifeoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues&hide_border=false)](https://github.com/pheobeayo)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=c)](https://github.com/pheobeayo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&theme=dracula&langs_count=8)](https://github.com/pheobeayo)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pheobeayo&theme=dracula&hide_border=false)](https://github.com/pheobeayo)
 
