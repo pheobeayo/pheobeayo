@@ -106,9 +106,9 @@ Beyond that:
 
 <div align="center">
 
-[![Ifeoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues&hide_border=false)](https://github.com/pheobeayo)
+[![Ifeoluwa's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues)](https://github.com/pheobeayo)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&theme=dracula&langs_count=8)](https://github.com/pheobeayo)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&theme=dracula&langs_count=8)](https://github.com/pheobeayo)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pheobeayo&theme=dracula&hide_border=false)](https://github.com/pheobeayo)
 
