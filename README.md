@@ -1,95 +1,141 @@
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                              ║
+║   IFEOLUWA SANNI                                                                                             ║
+║   ───────────────                                                                                            ║
+║   Web3 Full-Stack Developer · Cairo & Solidity Engineer · Open-Source Protocol Contributor                  ║
+║   Women in Ethereum Protocol Engineer · DevRel & Community Builder · Technical Writer                       ║
+║                                                                                                              ║
+║   Onchain. In the docs. In the protocol.                                        she/her                     ║
+║                                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+> *"Ship it onchain, write it clearly, teach it freely."*
+
+---
+
+## 🌿 Origin Story
+
+I didn't come from a CS background. Which means I know better than most that growth is nonlinear, and the most complex systems have surprisingly elegant logic underneath.
+
+That's how I approach Web3.
+
+I build full-stack DApps on **Ethereum and StarkNet** — from smart contract architecture in **Solidity and Cairo** through to wallet-connected frontends. Then I write about what I build, and contribute it back to the ecosystem, because the best way to understand a protocol is to get your hands inside it.
+
+Currently: shipping on-chain at **Confidios** · contributing across Ethereum and StarkNet at **OnlyDust & Drips** · running developer workshops as DevRel lead at **Dev3Pack** · building community for women, students entering Tech & Web3.
+
+---
+
+## 📖 Chapter One — The Stack
+
+**⌁ On-Chain — where the logic lives**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Cairo](https://img.shields.io/badge/Cairo-FF6B35?style=flat&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![StarkNet](https://img.shields.io/badge/StarkNet-FF6B35?style=flat&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+**⌁ Frontend — where the user lives**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**⌁ Web3 — where the money lives**
+
+![Ethers.js](https://img.shields.io/badge/Ethers.js-764ABC?style=flat&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-7C3AED?style=flat&logoColor=white)
+![Web3Modal](https://img.shields.io/badge/Web3Modal-3396FF?style=flat&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**⌁ Docs & Tools — the rest of the toolkit**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat&logo=docusaurus&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+---
+
+## 📖 Chapter Two — Protocol Work & Open Source
+
+> *Contributor. Builder. Shipper. In that order, every time.*
+
+I don't just use protocols — I contribute to them. Over 10+ live Ethereum and StarkNet repositories have had PRs, issue reports, documentation, or contract code from me land in production. I show up consistently, I ship, and I leave the codebase better than I found it.
+
+**🔵 Women in Ethereum Protocol — Top Contributor & Protocol Engineer** *(Aug–Oct 2025)*
+Selected as a Fellow and recognised as a **top contributor** to the Women in Ethereum Protocol cohort — one of the most rigorous applied engineering programmes in the Ethereum ecosystem. Worked directly on Ethereum protocol-level code and tooling alongside core developers, contributing to the technical foundation of the network itself.
+
+**🟣 OnlyDust & Drips — Consistent Open-Source Contributor**
+Active across **15+ Ethereum and StarkNet repositories**, delivering code, documentation, and technical guides that have been adopted by protocol maintainers. Earned consistent contributor recognition for reliable, high-quality, production-ready output. Not a drive-by contributor — I take ownership.
+
+**🟠 Confidios — Smart Contract Developer & Technical Writer**
+Building and shipping Cairo and Rust smart contract systems on StarkNet. I own the full cycle: architecture, implementation, peer review, and the documentation that ensures other developers can actually use what we built.
+
+**🟢 Dev3Pack — Open Source DevRel**
+Mentoring and guiding in open-source contribution and building skills through it.
+
+---
+
+## 📖 Chapter three — Off the Clock
+
+I believe a developer who can't explain their work hasn't fully understood it yet. So I write — about Cairo patterns, DeFi mechanics, open-source contribution workflows, and the things nobody documents until someone gets stuck at 2 am.
+
+Beyond that:
+
+- 👩‍🏫 Onboarded **50+ students, teenagers, and career-pivoting women** into Web3 through structured mentorship
+- 🎓 **DevConnect Scholar 2023** — Ethereum Foundation & Next Billion Team
+- 📝 I write docs that developers bookmark, not just read once
+- 🌱 When I'm not on-chain or in a terminal, I'm reading something that has nothing to do with tech — and somehow it always finds its way back
+
+---
+
+## 📖 Chapter Four — The Numbers
+
 <div align="center">
 
-# Ifeoluwa Sanni
-### Web3 Full-Stack Developer · Open-Source Contributor · OpenSource-DevRel @ Dev3Pack & Community Builder
-### Protocol Engineer @ WIEP(Women in Ethereum Protocol) · Cairo & Solidity Engineer · Technical Writer
+[![Ifeoluwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pheobeayo&show_icons=true&theme=dracula&hide=issues&count_private=true&include_all_commits=true)](https://github.com/pheobeayo)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ifeoluwa_Sanni-cc338b?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-sanni/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ifeoluwaayosanni.vercel.app-6aa6f8?style=flat&logo=vercel&logoColor=white)](https://ifeoluwaayosanni.vercel.app)
-[![Twitter/X](https://img.shields.io/badge/@pheobeayolove1-cc338b?style=flat&logo=x&logoColor=white)](https://twitter.com/pheobeayolove1)
-[![Medium](https://img.shields.io/badge/Medium-@pheobeayo-6aa6f8?style=flat&logo=medium&logoColor=white)](https://medium.com/@pheobeayo)
-[![Email](https://img.shields.io/badge/Email-pheobeayo@gmail.com-cc338b?style=flat&logo=gmail&logoColor=white)](mailto:pheobeayo@gmail.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=c)](https://github.com/pheobeayo)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pheobeayo&theme=dracula&hide_border=false)](https://github.com/pheobeayo)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 📖 Chapter five — Say Something
 
-Passionate Web3 full-stack developer and open-source contributor with **3+ years** building production DApps across **Ethereum and StarkNet**. I turn ideas into shipped, on-chain products from smart contract architecture through a polished frontend. I'm equally at home writing clean Solidity, Cairo, contributing to live open-source repositories, and creating the documentation that helps developers actually understand what they are building with.
+Not a "let's connect" person. More of a *"here's something I built — what do you think?"* person.
 
+If you're a **founder** looking for a developer who ships full-stack and documents it — let's talk.
+If you're a **protocol** looking for a contributor who stays — check the commit history, then let's talk.
+If you're a **developer** stuck on something in Web3 — open an issue, send a DM.
 
-
----
-
-## 🔧 Technology & Tools
-
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Cairo-informational?style=flat&logo=cairo&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Library-Ethers.js-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Library-Wagmi-informational?style=flat&logo=ethereum&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Library-Web3.js-informational?style=flat&logo=web3dotjs&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Library-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Library-Thirdweb-informational?style=flat&logo=thirdweb&logoColor=white&color=cc338b)
-
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Framework-Vite-informational?style=flat&logo=vite&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=cc338b)
-
-![](https://img.shields.io/badge/Tools-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Foundry-informational?style=flat&logo=foundry&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Tools-IPFS-informational?style=flat&logo=ipfs&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=cc338b)
-
-![](https://img.shields.io/badge/Docs-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Docs-Docusaurus-informational?style=flat&logo=docusaurus&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Docs-Notion-informational?style=flat&logo=notion&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Docs-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=cc338b)
-
----
-
-## 🌱 Open Source & Community
-
-I am an active open-source contributor and developer advocate across the Ethereum and StarkNet ecosystems.
-
-- 🔓 **OnlyDust & Drips** — Contributed code, documentation, and technical guides to **10+ live repositories**; earned consistent contributor recognition for reliable, high-quality output
-- 📝 **Technical Writing** — Authored contributor onboarding guides, contract architecture docs, and protocol explainers that reduce friction for developers entering new codebases
-- 🎤 **Dev3pack OpenSource DevRel Lead** — Run workshops and speak at blockchain events, distilling L1/L2 developments and DeFi mechanics into accessible content for students and women-in-blockchain communities in Open-Source Contribution.
-- 🤝 **HerDAO Contributor** — Produce educational content on blockchain and frontend development for the community
-- 👩‍🏫 Organised mentorship programmes for **50+ students, teenagers, and career-pivoting women** entering Web3
-- 📰 **Devconnect Scholar 2023** — Represented the Ethereum Foundation's Next Billion initiative on the ground
-- 🌟 **Women in Ethereum Protocol Fellow** - Contribute to Ethereum Client Protocols as one of the Top Contributors
----
-
-## 📈 GitHub Stats
- 
 <div align="center">
- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheobeayo&layout=compact&hide=c&langs_count=8&theme=dracula)](https://github.com/pheobeayo/github-readme-stats)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cc338b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-sanni/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6aa6f8?style=for-the-badge&logo=netlify&logoColor=white)](https://ifeoluwaayosanni.netlify.app)
+[![Twitter / X](https://img.shields.io/badge/Twitter-cc338b?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pheobeayolove1)
+[![Medium](https://img.shields.io/badge/Writing-6aa6f8?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pheobeayo)
+[![Email](https://img.shields.io/badge/Email-cc338b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pheobeayo@gmail.com)
+
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-I'm open to **Web3 full-stack development**, **open-source collaboration**, **DevRel and developer advocacy**, and **technical writing** opportunities. Let's build and grow the ecosystem together.
-
-
-
----
-
 <div align="center">
-<sub>⚡ When I am not shipping DApps or contributing to open source, I am teaching the next generation of Web3 builders.</sub>
 </div>
